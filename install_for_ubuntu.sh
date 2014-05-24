@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #安装zsh
-apt-get install zsh
+apt-get install zsh -y
 
 cd ~
 
@@ -9,7 +9,7 @@ cd ~
 chsh -s /bin/zsh
 
 #安装git
-apt-get install git
+apt-get install git -y
 
 #安装oh myzsh
 

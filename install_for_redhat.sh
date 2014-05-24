@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #安装zsh
-yum install zsh
+yum install zsh -y
 
 #回到当前用户home目录
 cd ~
@@ -10,7 +10,7 @@ cd ~
 chsh -s /bin/zsh
 
 #安装git
-yum install git
+yum install git -y
 
 #安装oh myzsh
 
