@@ -9,7 +9,7 @@ cd ~
 chsh -s /bin/zsh
 
 #安装git
-sudo brew install git
+sudo apt-get install git
 
 #安装oh myzsh
 
