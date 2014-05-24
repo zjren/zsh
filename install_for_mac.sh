@@ -20,6 +20,6 @@ wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - 
 
 #配置zsh
 
-wget https://github.com/zjren/zsh/raw/master/.zshrc -o ~/.zshrc
+wget https://github.com/zjren/zsh/raw/master/.zshrc -O ~/.zshrc
 
 echo "zsh install success"
