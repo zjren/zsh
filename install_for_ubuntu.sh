@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #安装zsh
-sudo apt-get install zsh
+apt-get install zsh
 
 cd ~
 

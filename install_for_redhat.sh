@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #安装zsh
-sudo yum install zsh
+yum install zsh
 
 #回到当前用户home目录
 cd ~
