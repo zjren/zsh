@@ -10,7 +10,7 @@ cd ~
 chsh -s /bin/zsh
 
 #安装git
-sudo yum install git
+yum install git
 
 #安装oh myzsh
 
